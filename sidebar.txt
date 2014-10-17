@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcv:home|Door43 (mcv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcv|d43-mcv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcv/archive/master.zip|d43-mcv.zip]]
+
+**Recent Changes**
+{{changes>ns = mcv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcv|Ethnologue data]]
+
